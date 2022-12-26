@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(plytoplane)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_INSTALL_PREFIX /Users/andrey.bespalov/Projects/plytoplane_v1.0)
+set(SOURCE_FILES main.cpp PLY.cpp PLY.h PSBColors/PSBColors.cpp PSBColors/PSBColors.h)
+add_executable(plytoplane ${SOURCE_FILES})

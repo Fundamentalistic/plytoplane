@@ -1,0 +1,3 @@
+/Users/andrey.bespalov/Projects/plytoplane_v1.0/CMakeFiles/plytoplane.dir
+/Users/andrey.bespalov/Projects/plytoplane_v1.0/CMakeFiles/edit_cache.dir
+/Users/andrey.bespalov/Projects/plytoplane_v1.0/CMakeFiles/rebuild_cache.dir
