@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.25)
+include_directories(${CMAKE_SOURCE_DIR}/libs/libpng-1.6.39)
 project(plytoplane)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_INSTALL_PREFIX /Users/andrey.bespalov/Projects/plytoplane_v1.0)
